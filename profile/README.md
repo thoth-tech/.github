@@ -22,7 +22,7 @@ Open source is at the heart 💜 of Thoth Tech. We maintain and support two popu
 In addition, we also bootstrap a new project:
 
 - **DreamBig** is a new system that helps students develop their professional identity across their
-  courses. It prepares them to smoothly enter the IT progressions.
+  courses. It prepares them to smoothly enter the IT professions.
 
 Oh, and by the way, we are always hiring talented, passionate people to [join our team] 🙌.
 
@@ -41,7 +41,7 @@ and among others.</li>
 <li><a href="https://github.com/thoth-tech/splashkit-core">SplashKit</a></li>
 </ul>
 </li>
-<li>By the way, our <a href="https://github.com/thoth-tech/handbook">handbook</a> 🤓 is also open sourced</li>
+<li>By the way, our <a href="https://github.com/thoth-tech/handbook">handbook</a> 🤓 is also open sourced.</li>
 
 </details>
 
