@@ -1,6 +1,6 @@
 # Hey, this is us :wave:
 
-![Thoth Tech banner](thothtech_banner.png)
+![Thoth Tech banner](../images/thothtech_banner.png)
 
 Thoth Tech is founded on **February 21st, 2022**. Our mission is to **build, operate and deploy
 world class education technologies**. We are proud to create tools that enhance education outcomes
