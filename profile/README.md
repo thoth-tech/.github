@@ -45,5 +45,7 @@ and among others.</li>
 
 </details>
 
+![Metrics](/github-metrics.svg)
+
 [charter]: https://github.com/thoth-tech/handbook/blob/main/docs/company/charter.md
 [join our team]: https://github.com/thoth-tech/handbook/blob/main/docs/marketing/pitch.md
