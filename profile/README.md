@@ -1,8 +1,11 @@
 # Hey, this is us :wave:
 
-<img src="https://github.com/thoth-tech/.github/blob/main/images/doubtfire-100px.png"/>
-<img src="https://github.com/thoth-tech/.github/blob/main/images/splashkit-100px.png"/>
-<img src="https://github.com/thoth-tech/.github/blob/main/images/dreambig-100px.png"/>
+<p align="left" width="100%">
+    <img width="30%" src="https://github.com/thoth-tech/.github/blob/main/images/doubtfire-100px.png"/>
+    <img width="30%" src="https://github.com/thoth-tech/.github/blob/main/images/splashkit-100px.png"/>
+    <img width="30%" src="https://github.com/thoth-tech/.github/blob/main/images/dreambig-100px.png"/>
+</p>
+
 
 Thoth Tech is founded on **February 21st, 2022**. Our mission is to **build, operate and deploy
 world class education technologies**. We are proud to create tools that enhance education outcomes
@@ -24,7 +27,7 @@ Open source is at the heart 💜 of Thoth Tech. We maintain and support two popu
 
 In addition, we are also in the process of bootstrapping a new project:
 
-- **<img src="https://github.com/thoth-tech/.github/blob/main/images/dreambig-20px.png"/> DreamBig** is a new system that helps students develop their professional identity throughout their courses, and prepares them for a successful IT career.
+- **[<img src="https://github.com/thoth-tech/.github/blob/main/images/dreambig-20px.png"/> DreamBig](https://github.com/thoth-tech/DreamBig-Project)** is a new system that helps students develop their professional identity throughout their courses, and prepares them for a successful IT career.
 
 
 [handbook]: https://github.com/thoth-tech/handbook
