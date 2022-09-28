@@ -1,8 +1,11 @@
 # Hey, this is us :wave:
 
-<img src="https://github.com/thoth-tech/.github/blob/main/images/doubtfire-100px.png"/>
-<img src="https://github.com/thoth-tech/.github/blob/main/images/splashkit-100px.png"/>
-<img src="https://github.com/thoth-tech/.github/blob/main/images/dreambig-100px.png"/>
+<p align="left" width="100%">
+    <img width="30%" src="https://github.com/thoth-tech/.github/blob/main/images/doubtfire-100px.png"/>
+    <img width="30%" src="https://github.com/thoth-tech/.github/blob/main/images/splashkit-100px.png"/>
+    <img width="30%" src="https://github.com/thoth-tech/.github/blob/main/images/dreambig-100px.png"/>
+</p>
+
 
 Thoth Tech is founded on **February 21st, 2022**. Our mission is to **build, operate and deploy
 world class education technologies**. We are proud to create tools that enhance education outcomes
