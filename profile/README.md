@@ -1,9 +1,9 @@
 # Hey, this is us :wave:
 
 <p align="left" width="100%">
-    <img width="30%" src="https://github.com/thoth-tech/.github/blob/main/images/doubtfire-100px.png"/>
-    <img width="30%" src="https://github.com/thoth-tech/.github/blob/main/images/splashkit-100px.png"/>
-    <img width="30%" src="https://github.com/thoth-tech/.github/blob/main/images/dreambig-100px.png"/>
+    <img width="30%" src="https://github.com/thoth-tech/.github/blob/main/images/doubtfire.png"/>
+    <img width="30%" src="https://github.com/thoth-tech/.github/blob/main/images/splashkit.png"/>
+    <img width="30%" src="https://github.com/thoth-tech/.github/blob/main/images/dreambig.png"/>
 </p>
 
 
