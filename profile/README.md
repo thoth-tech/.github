@@ -27,7 +27,7 @@ Open source is at the heart 💜 of Thoth Tech. We maintain and support two popu
 
 In addition, we are also in the process of bootstrapping a new project:
 
-- **<img src="https://github.com/thoth-tech/.github/blob/main/images/dreambig-20px.png"/> DreamBig** is a new system that helps students develop their professional identity throughout their courses, and prepares them for a successful IT career.
+- **[<img src="https://github.com/thoth-tech/.github/blob/main/images/dreambig-20px.png"/> DreamBig](https://github.com/thoth-tech/DreamBig-Project)** is a new system that helps students develop their professional identity throughout their courses, and prepares them for a successful IT career.
 
 
 [handbook]: https://github.com/thoth-tech/handbook
