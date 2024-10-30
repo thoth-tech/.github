@@ -19,7 +19,7 @@ supportive**. Our company [charter] and [handbook] are open to the public.
 
 Open source is at the heart 💜 of Thoth Tech. We maintain and support two popular projects:
 
-- **[<img src="https://github.com/thoth-tech/.github/blob/main/images/doubtfire-20px.png"/> OnTrack (also known as Doubtfire)](https://doubtfire.io/)** is an innovative Learning Management System that are designed for a skill-based course delivery model.  Students will gain real experience thourgh regular practice receive rapid feedback on their work on a weekly basis. This platform is used to connect tutors and students at Deakin university as well as other universities around the world. 
+- **[<img src="https://github.com/thoth-tech/.github/blob/main/images/doubtfire-20px.png"/> OnTrack (also known as Doubtfire)](https://ontrackdocumentation.netlify.app/)** is an innovative Learning Management System that are designed for a skill-based course delivery model.  Students will gain real experience thourgh regular practice receive rapid feedback on their work on a weekly basis. This platform is used to connect tutors and students at Deakin university as well as other universities around the world. 
   - The [frontend](https://github.com/thoth-tech/doubtfire-web) of this project is primarily built with TypeScript and Angular
   - The [backend](https://github.com/thoth-tech/doubtfire-api) is a Ruby on Rails project
   - The [deployment](https://github.com/thoth-tech/doubtfire-deploy) of the entire software stack is done with docker to improve turnaround time and portability
