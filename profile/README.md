@@ -22,9 +22,12 @@ At the heart of Thoth Tech is a commitment to open-source. We proudly maintain a
 - **[SplashKit Core](https://github.com/thoth-tech/splashkit-core)**: The core SDK that powers the SplashKit experience, designed to be versatile and accessible for beginners.
 - **[SplashKit Starlight](https://github.com/thoth-tech/splashkit.io-starlight)**: The official website for SplashKit, serving as a comprehensive resource hub.
 - **[Arcade Machine](https://github.com/thoth-tech/arcade-machine)**: An application to showcase and run games created with SplashKit, giving users an arcade-style experience.
+- **[Arcade Games](https://github.com/thoth-tech/arcade-games)**: A collection of games built for the Arcade Machine, demonstrating the capabilities of SplashKit.
 - **[SplashKit Online](https://github.com/thoth-tech/SplashkitOnline)**: A browser-based IDE for beginner programmers to get started quickly. SplashKit Online allows users to code in JavaScript (and experimentally in C++), providing everything needed to create a game.
 - **[SplashKit Translator](https://github.com/thoth-tech/splashkit-translator)**: A translation tool that converts SplashKit Core's C++ source into other programming languages, expanding its reach.
 - **[SKM (SplashKit Manager)](https://github.com/thoth-tech/skm)**: A CLI and app tool for managing SplashKit installations, creating, building, and running SplashKit projects.
+- **[Splashkit External](https://github.com/thoth-tech/splashkit-external)**: The external header files and libraries that SplashKit uses, including SDL, SDL_image, SDL_mixer, SDL_ttf, and more.
+- **[Splashkit Beach](https://github.com/thoth-tech/splashkit-beach), [SplashKit Lake](https://github.com/thoth-tech/splashkit-lake) & [SplashKit Pond](https://github.com/thoth-tech/splashkit-pond)**: The set of repositories for game development, with `Beach` containing the stable Splashkit Games, `Lake` containing the development Splashkit Games, and `Pond` containing the Splashkit Games that are in the planning stage.
 
 ### [<img src="https://github.com/thoth-tech/.github/blob/main/images/doubtfire-20px.png"/> OnTrack (also known as Doubtfire)](https://ontrackdocumentation.netlify.app/)
 **OnTrack** is an innovative Learning Management System (LMS) designed for skill-based course delivery. It enables students to gain hands-on experience through frequent practice and immediate feedback, supporting learning and progress tracking at institutions worldwide, including Deakin University.
